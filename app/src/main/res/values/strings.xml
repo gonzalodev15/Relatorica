@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Relatorica</string>
+    <string name="discover">Descubre</string>
+    <string name="my_stories">Mis Historias</string>
+    <string name="profile">Perfil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
